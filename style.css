@@ -7,9 +7,10 @@
   .box {
     color: silver;
     margin: 10px;
+    
   }
   iframe {
-    width: 1250px;
+    width: 1200px;
     border: none;
     height: 650px;
   }
