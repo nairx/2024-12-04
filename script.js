@@ -13,7 +13,16 @@ let students = [
   {name:'Radha Krishna K',user:'RadhaKrishnai'},
   {name:'Ravi Sanjeev Vanumu',user:'sanjeevitgithub'},
   {name:'G.Sarveswara Reddy',user:'Sarvesh-1-dot'},
-  {name:'Sarvesh',user:'Sarvesh-1-dot.github.io'},
+  {name:'Sarvesh',user:'Sarvesh-1-dot'},
+  {name:'Mounika Komera',user:'mounikakomera'},
+  {name:'Harshavardhan',user:'harshareddy0826'},
+  {name:'Samarth',user:'codersam10'},
+  {name:'Ravi Sanjeev',user:'sanjeevit'},
+  {name:'Dhanu',user:'dhanu8645'},
+  {name:'Navya',user:'navyaia'},
+  {name:'Senthil Kumar',user:'Senthil7343'},
+  {name:'Jugguboddu',user:'jugguboddu'},
+  
    ];
 
 
